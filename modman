@@ -1,0 +1,5 @@
+code/                    app/code/community/MVentory/JQuery/
+MVentory_JQuery.xml app/etc/modules/MVentory_JQuery.xml
+adminhtml/jquery.xml     app/design/adminhtml/default/default/layout/jquery.xml
+frontend/jquery.xml      app/design/frontend/base/default/layout
+js/jquery-min.js         js/jquery/jquery-min.js
