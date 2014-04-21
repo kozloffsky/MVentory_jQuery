@@ -2,7 +2,7 @@ mVentory_jQuery is a satellite Magento extension with jQuery files for other mVe
 
 Its only action is placing jQuery files in `<magento_root>/js/jquery` folder.
 
-This extension is required for [API](/mVentory/MVentory_Tm) and [Productivity](/mVentory/mvProductivity) extensions.
+This extension is required for [API](https://github.com/mVentory/MVentory_Tm) and [Productivity](https://github.com/mVentory/mvProductivity) extensions.
 
 Currently used version of jQuery: 1.8.3
 
