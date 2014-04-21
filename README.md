@@ -12,9 +12,9 @@ This extension creates a magento layout handle called `jquery` in _frontend_ and
 
 The handle can be invoked by insertting the following reference into a layout file:
 
-  <catalog_product_view>
-    <update handle="jquery" />
-  </catalog_product_view>
+    <catalog_product_view>
+     <update handle="jquery" />
+    </catalog_product_view>
 
 
 
