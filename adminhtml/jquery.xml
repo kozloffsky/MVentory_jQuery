@@ -34,4 +34,12 @@
       </action>
     </reference>
   </jquery>
+
+  <jquery_ui>
+    <reference name="head">
+      <action method="addJs">
+        <script>jquery/jquery-ui-custom-min.js</script>
+      </action>
+    </reference>
+  </jquery_ui>
 </layout>
